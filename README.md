@@ -1,5 +1,9 @@
 # 📚 Praktikum Struktur Data
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/Code-Open--Source-green)
+
 Repositori ini berisi rangkuman, konsep, dan implementasi dari setiap modul **Praktikum Struktur Data**.  
 Setiap modul mencakup penjelasan teori singkat, implementasi program, serta tugas praktikum yang dikerjakan menggunakan bahasa **Python**.
 
